@@ -1,4 +1,4 @@
-# pineapple
+# Boiler plate
 
 ## Build Setup
 
